@@ -1,0 +1,2 @@
+This is a new file created in the release branch.
+And it would be committed to the main branch from VS Code, to test the GIT functionality.
