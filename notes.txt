@@ -1,0 +1,9 @@
+HTML data-* attribute -
+Used to store data private to the page
+Eg: <div data-name="sourav">Username</div>
+
+
+Types of CSS:
+1. Internal CSS (not used in LWC)
+2. Inline CSS
+3. External CSS
