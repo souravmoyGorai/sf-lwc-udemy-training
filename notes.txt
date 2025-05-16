@@ -7,3 +7,18 @@ Types of CSS:
 1. Internal CSS (not used in LWC)
 2. Inline CSS
 3. External CSS
+
+
+JavaScript:
+Important: Variables, Datatypes, null vs undefined, Arrow function, Spread Operator, Destructuring,
+String Interpolation, String Methods, Object Methods, Array Methods, Promises,
+Modules import and export, Events, setTimeout vs setInterval, QuerySelectors
+
+
+Variables
+    var, const, let keyword to declare a Variables
+
+    ***** var keyword *****
+    1 can be updated and also be re-declared
+    2 has 2 scopes - global and function
+    3 not block level scope
